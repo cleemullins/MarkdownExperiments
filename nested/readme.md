@@ -1,4 +1,4 @@
 This markdown file is nested in the "nested" directory. 
 
 
-[Root level doc](docs/rootlevel.md)
+[Root level doc](/docs/rootlevel.md)
